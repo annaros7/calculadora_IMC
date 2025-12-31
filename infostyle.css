@@ -1,0 +1,52 @@
+body {
+    background-color: #E8D8C4;
+    font-family: Arial, Helvetica, sans-serif;
+    color: #6D2932;
+    text-align: center;
+
+}
+
+main {
+    max-width: 800px;
+    margin: 0 auto;
+}
+
+h1 {
+    margin-top: 40px;
+    text-align: center;
+    color: #6D2932;
+}
+
+hr {
+    border-color: #6D2932;
+}
+
+.explicacao {
+    margin-top: 40px;
+}
+
+.resultados {
+    margin-top: 50px;
+    text-align: center;
+    list-style-type: none;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    line-height: 1.6;
+    color: #6D2932; 
+    font-weight: 600;
+}
+
+.titulo_imc, .titulo_classifcacao {
+    background-color: #6D2932;
+    width: 300px;
+    color: #E8D8C4;
+    padding: 5px;
+    border-radius: 10px;
+}
+
+.informacao {
+    margin-top: 50px;
+    font-size: 15px;
+
+}
